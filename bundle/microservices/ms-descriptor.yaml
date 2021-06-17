@@ -1,0 +1,6 @@
+image: germanogiudici/entando-bundle-seed-ms-springboot-kc:0.0.1-SNAPSHOT
+dbms: none
+healthCheckPath: '/actuator/health'
+roles:
+  - 'mf-widget-admin'
+  - 'ui-admin'

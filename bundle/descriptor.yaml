@@ -1,0 +1,7 @@
+code: entando-vanilla-bundle
+description: An Example of a Vanilla Entando Bundle
+components:
+  plugins:
+    - microservices/ms-descriptor.yaml
+  widgets:
+    - microfrontend-entando-widgets/mf-descriptor.yaml

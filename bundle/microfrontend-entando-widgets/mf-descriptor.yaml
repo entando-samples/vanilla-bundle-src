@@ -1,0 +1,6 @@
+code: mf-widget-code
+titles:
+  en: mf widget
+  it: mf widget
+group: free
+customUiPath: mf-widget.ftl
